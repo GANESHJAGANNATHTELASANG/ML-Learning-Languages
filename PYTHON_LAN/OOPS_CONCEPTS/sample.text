@@ -1,0 +1,1 @@
+{"name": "Ganesh", "age": 20, "course": "AI & DS", "cgpa": 7.99, "isStudent": true, "phone": null, "skills": ["Python", "Java", "Machine Learning"], "address": {"city": "Hubli", "state": "Karnataka"}}
