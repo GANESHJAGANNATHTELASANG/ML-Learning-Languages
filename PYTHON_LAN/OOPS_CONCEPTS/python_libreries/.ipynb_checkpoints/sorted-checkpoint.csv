@@ -1,0 +1,12 @@
+,ID,NAME,AGE,COUNTRY,GENDER,INCOME,TAX,GENDER
+0,1,John Doe,29.0,VIJAYAPYR,,55000.0,20%,
+1,1,John Doe,29.0,VIJAYAPYR,,55000.0,20%,
+2,2,Jane Smith,,Canada,,62000.0,20%,
+3,3,Alex,,VIJAYAPYR,,47000.0,20%,
+4,4,Maria Garcia,34.0,Spain,,,50%,
+5,5,Li Wei,27.0,China,,51000.0,20%,
+6,6,,45.0,India,,73000.0,20%,
+7,7,Ahmed Khan,38.0,,,68000.0,20%,
+8,8,Rachel Lee,29.0,VIJAYAPYR,,62000.0,20%,
+9,9,Carlos Ruiz,,Mexico,,45000.0,20%,
+10,10,Emily Davis,31.0,VIJAYAPYR,,58000.0,20%,
